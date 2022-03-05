@@ -21,4 +21,4 @@ You can find the same information in the [contributing guide.](https://github.co
 2048 is licensed under the [MIT license.](https://github.com/NatickYT/2048/blob/master/LICENSE.txt)
 
 ## Donations
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game feel free to subscribetomeon YouTube https://bit.ly/NatickPlays. Thank you very much!
+I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game feel free to subscribe to me on YouTube https://bit.ly/NatickPlays. Thank you very much!
